@@ -1,0 +1,6 @@
+{
+  "name": "AI Smart Billing and Sales System",
+  "description": "AI-assisted billing, inventory management, invoice generation, and sales tracking application for small retail businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

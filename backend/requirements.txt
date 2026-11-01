@@ -1,0 +1,10 @@
+# Requirements for AI Smart Billing and Sales System
+# Compatible with Python 3.10, 3.11, 3.12, 3.13, 3.14, and 3.15 on Windows
+# Avoids C++ build tools, link.exe, and Rust dependencies
+
+fastapi>=0.110.0
+uvicorn>=0.28.0
+python-multipart>=0.0.9
+requests>=2.31.0
+pydantic>=2.6.0
+python-dotenv>=1.0.0
