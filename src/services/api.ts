@@ -1,6 +1,6 @@
 import { Product, Customer, Invoice, InvoiceItem, StoreSettings, User, ReportSummary, InventoryLog } from '../types';
 
-const API_BASE = import.meta.env.VITE_API_BASE_URL || '/api';
+const API_BASE = 'https://ai-smart-billing-system-etyq.onrender.com';
 
 class ApiService {
   private token: string | null = null;
